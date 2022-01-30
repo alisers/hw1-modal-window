@@ -1,0 +1,56 @@
+.background{
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.329);
+    
+
+}
+.modal{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 400px;
+    width: 450px;
+    border-radius: 30px;
+     background-color: rgb(82, 102, 75);
+     
+}
+.header{
+    text-align: center;
+    color: rgb(233, 190, 110);
+    padding-top: 50px;
+    text-shadow: rgb(170, 159, 115) 2px 0 10px;
+}
+.text{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: larger;
+    color: wheat;
+    text-shadow: #FC0 1px 0 10px;
+}
+.button{
+    position: absolute;
+    left: 400px;
+    top:15px;
+    width: 35px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: rgb(235, 198, 129);
+    border: none;
+    background-color: rgb(60, 75, 55);
+
+    
+   
+    
+}
+.button:hover{
+    background-color: rgb(168, 56, 37);
+    transform: scale(1.3);
+}
