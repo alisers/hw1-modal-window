@@ -1,5 +1,5 @@
 import React from 'react';
-import s from "./Modal.module.css"
+import s from "./Modal.module.scss"
 import PropTypes from 'prop-types';
 export default function Modal({header,closeButton,text,onClick, onBackDropClose}){
     return(
@@ -10,6 +10,10 @@ export default function Modal({header,closeButton,text,onClick, onBackDropClose}
                  <h1 className={s.header}>{header}</h1>
                 {closeButton && <button onClick={onClick} className={s.button}>X</button>}
                 <p className={s.text}>{text}</p>
+                <div className={s.container}>
+                <button className={s.buttonOk}>Ok</button>
+                <button className={s.buttonCancel}>Cancel</button>
+                </div>
              </div>
          </div>
      </>
