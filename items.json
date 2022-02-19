@@ -1,0 +1,100 @@
+[{
+    "name":"Ray ban",
+    "price":"200",
+    "img":"./img-shop/1.jpeg",
+    "id": 1,
+    "color":"green"
+
+
+},
+{
+    "name":"Gucci",
+    "price":"250",
+    "img":"./img-shop/6.jpeg",
+    "id": 2,
+    "color":"pink"
+
+
+},
+{
+    "name":"Prada",
+    "price":"180",
+    "img":"./img-shop/7.jpeg",
+    "id": 3,
+    "color":"black"
+
+
+},
+{
+    "name":"Dior",
+    "price":"300",
+    "img":"./img-shop/2.jpeg",
+    "id": 4,
+    "color":"beige"
+
+
+},
+{
+    "name":"Chanel",
+    "price":"270",
+    "img":"./img-shop/3.jpeg",
+    "id": 5,
+    "color":"gold"
+
+
+},
+{
+    "name":"Kenzo",
+    "price":"180",
+    "img":"./img-shop/4.jpeg",
+    "id": 6,
+    "color":"pink and gold"
+
+
+},
+{
+    "name":"Rolex",
+    "price":"400",
+    "img":"./img-shop/9.webp",
+    "id": 7,
+    "color":"gold"
+
+
+},
+{
+    "name":"Breitling",
+    "price":"330",
+    "img":"./img-shop/5.jpeg",
+    "id": 8,
+    "color":"silver"
+
+
+},
+{
+    "name":"Zara",
+    "price":"370",
+    "img":"./img-shop/8.jpeg",
+    "id": 9,
+    "color":"tiffany"
+
+
+},
+{
+    "name":"Tommy Hilfiger",
+    "price":"290",
+    "img":"./img-shop/10.jpeg",
+    "id": 10,
+    "color":"brown"
+
+
+},
+{
+    "name":"Hermes",
+    "price":"300",
+    "img":"./img-shop/11.jpeg",
+    "id": 11,
+    "color":"black"
+
+
+}
+]
